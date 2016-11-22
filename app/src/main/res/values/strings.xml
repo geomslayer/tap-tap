@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tap-tap</string>
+    <string name="tap">TAP</string>
+    <string name="start">Start game</string>
+    <string name="count_taps">Count taps</string>
+    <string name="count_buttons">Count buttons</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
